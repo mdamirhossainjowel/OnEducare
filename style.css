@@ -1,0 +1,12 @@
+.font-size {
+  font-size: 80px;
+}
+.anchore {
+  text-decoration: none;
+}
+.bullet {
+  list-style-type: none;
+}
+.round {
+  border-radius: 25px;
+}
