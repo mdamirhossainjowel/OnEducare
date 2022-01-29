@@ -15,14 +15,14 @@ div.scrollmenu::-webkit-scrollbar {
   display: none;
 }
 
-.scrollmenu {
-  overflow-x: auto;
-  overflow-y: hidden;
-}
 .menu-wrapper {
-  position: relative;
   margin: 1em auto;
 
   overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.scrollmenu {
+  overflow-x: auto;
   overflow-y: hidden;
 }
